@@ -1,0 +1,2153 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+22/04/2023 20:45:29 [18156] Stop thread...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+22/04/2023 22:38:57 [18540] OpenStream(AVAYA#CM7#CSTA#AESIP84,ctiuser,M1d14v0x@)
+22/04/2023 22:38:57 [18540] Stop thread...
+22/04/2023 22:38:57 [18540] Start thread...
+22/04/2023 22:38:57 [16364] [MonitorDevice] success : 40402
+22/04/2023 22:38:57 [16364] [MonitorDevice] success : 40402
+22/04/2023 22:38:59 [18540] [MonitorDevice] success : 40402
+22/04/2023 22:39:01 [18540] Stop thread...
+22/04/2023 22:39:01 [14716] ERROR ACSERR_BADHDL: handle=88543672
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+24/04/2023 10:55:18 [12676] Stop thread...
+24/04/2023 10:55:25 [12676] Stop thread...
+
+24/04/2023 10:59:16 [4204] [MonitorDevice] error = -10 : 40410
+24/04/2023 10:59:19 [4204] Stop thread...
+
+
+
+
+
+
+
+
+
+
+
+
+
+24/04/2023 11:19:55 [13284] OpenStream(AVAYA#CM7#CSTA#AESIP84,ctiusel,M1d14v0x@)
+24/04/2023 11:19:55 [13284] Stop thread...
+24/04/2023 11:19:55 [13284] Start thread...
+24/04/2023 11:19:55 [18468] CTI Event: class=2 type=6
+24/04/2023 11:19:55 [18468] ERROR reading private event info: -1
+24/04/2023 11:19:55 [18468] ACS_UNIVERSAL_FAILURE_CONF [id=2]
+24/04/2023 11:19:55 [18468] Error 25
+24/04/2023 11:19:55 [20652] Event in queue: 1
+24/04/2023 11:19:55 [20652] OpenStreamFailure
+
+
+24/04/2023 11:47:34 [12228] Stop thread...
+
+24/04/2023 11:57:10 [16376] Stop thread...
+
+24/04/2023 12:05:35 [17632] Stop thread...
+
+24/04/2023 12:08:49 [15036] Stop thread...
+
+24/04/2023 12:12:15 [20412] Stop thread...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+24/04/2023 15:16:42 [17040] Stop thread...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+03/05/2023 11:56:58 [13740] Stop thread...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+05/05/2023 12:38:54 [21396] Stop thread...
+
+05/05/2023 12:40:38 [24800] Stop thread...
+
+
+
+
+
+
+05/05/2023 13:06:04 [11732] Stop thread...
+
+05/05/2023 13:06:41 [16644] Stop thread...
+
+
+
+
+
+
+
+
+
+05/05/2023 13:31:55 [12520] Stop thread...
+
+
+
+05/05/2023 13:34:34 [2324] Stop thread...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+05/05/2023 17:16:54 [22932] Stop thread...
+05/05/2023 17:17:05 [22932] Stop thread...
+
+05/05/2023 17:20:40 [3804] Stop thread...
+
+05/05/2023 17:21:04 [16116] Stop thread...
+05/05/2023 17:21:14 [16116] Stop thread...
+05/05/2023 17:21:16 [16116] Stop thread...
+05/05/2023 17:21:17 [16116] Stop thread...
+
+
+
+
+
+
+05/05/2023 17:25:24 [2736] Stop thread...
+05/05/2023 17:25:25 [2736] Stop thread...
+05/05/2023 17:25:25 [2736] Stop thread...
+05/05/2023 17:25:25 [2736] Stop thread...
+05/05/2023 17:25:26 [2736] Stop thread...
+05/05/2023 17:25:27 [2736] Stop thread...
+
+05/05/2023 17:27:13 [4860] Stop thread...
+05/05/2023 17:27:14 [4860] Stop thread...
+05/05/2023 17:27:14 [4860] Stop thread...
+05/05/2023 17:27:14 [4860] Stop thread...
+05/05/2023 17:27:14 [4860] Stop thread...
+05/05/2023 17:27:14 [4860] Stop thread...
+05/05/2023 17:27:14 [4860] Stop thread...
+05/05/2023 17:27:15 [4860] Stop thread...
+05/05/2023 17:27:16 [4860] Stop thread...
+
+05/05/2023 17:28:48 [15576] Stop thread...
+05/05/2023 17:28:48 [15576] Stop thread...
+05/05/2023 17:28:49 [15576] Stop thread...
+05/05/2023 17:28:49 [15576] Stop thread...
+05/05/2023 17:28:49 [15576] Stop thread...
+
+
+
+
+
+
+05/05/2023 17:40:10 [22980] Stop thread...
+05/05/2023 17:40:12 [22980] Stop thread...
+05/05/2023 17:40:12 [22980] Stop thread...
+05/05/2023 17:40:17 [22980] Stop thread...
+
+
+
+
+
+
+
+
+
+
+
+05/05/2023 17:45:50 [21100] Stop thread...
+05/05/2023 17:45:51 [21100] Stop thread...
+05/05/2023 17:45:51 [21100] Stop thread...
+05/05/2023 17:45:51 [21100] Stop thread...
+05/05/2023 17:45:52 [21100] Stop thread...
+05/05/2023 17:45:54 [21100] Stop thread...
+
+05/05/2023 17:48:35 [19704] Stop thread...
+05/05/2023 17:48:36 [19704] Stop thread...
+05/05/2023 17:48:37 [19704] Stop thread...
+05/05/2023 17:48:37 [19704] Stop thread...
+05/05/2023 17:48:37 [19704] Stop thread...
+05/05/2023 17:48:37 [19704] Stop thread...
+05/05/2023 17:48:37 [19704] Stop thread...
+05/05/2023 17:48:37 [19704] Stop thread...
+05/05/2023 17:48:38 [19704] Stop thread...
+05/05/2023 17:48:38 [19704] Stop thread...
+
+
+
+05/05/2023 17:49:24 [15268] Stop thread...
+05/05/2023 17:49:24 [15268] Stop thread...
+05/05/2023 17:49:26 [15268] Stop thread...
+05/05/2023 17:49:26 [15268] Stop thread...
+05/05/2023 17:49:26 [15268] Stop thread...
+05/05/2023 17:49:26 [15268] Stop thread...
+05/05/2023 17:49:27 [15268] Stop thread...
+05/05/2023 17:49:27 [15268] Stop thread...
+05/05/2023 17:49:28 [15268] Stop thread...
+
+
+
+
+
+
+
+
+
+
+
+
+05/05/2023 17:57:14 [19364] Stop thread...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+05/05/2023 18:12:21 [21856] Stop thread...
+05/05/2023 18:12:22 [21856] Stop thread...
+05/05/2023 18:12:23 [21856] Stop thread...
+05/05/2023 18:12:23 [21856] Stop thread...
+
+05/05/2023 18:14:06 [23496] Stop thread...
+05/05/2023 18:14:08 [23496] Stop thread...
+
+05/05/2023 18:18:04 [1812] [MonitorDevice] error = -10 : 
+05/05/2023 18:18:06 [1812] [MonitorDevice] error = -10 : 
+05/05/2023 18:18:07 [1812] [MonitorDevice] error = -10 : 
+05/05/2023 18:18:07 [1812] [MonitorDevice] error = -10 : 
+05/05/2023 18:18:07 [1812] [MonitorDevice] error = -10 : 
+05/05/2023 18:18:08 [1812] [MonitorDevice] error = -10 : 
+05/05/2023 18:18:09 [1812] Stop thread...
+
+
+
+
+05/05/2023 18:20:30 [17648] [MonitorDevice] error = -10 : 
+05/05/2023 18:20:33 [17648] [MonitorDevice] error = -10 : 
+05/05/2023 18:20:47 [17648] Stop thread...
+
+05/05/2023 18:22:12 [16352] Stop thread...
+
+
+
+
+05/05/2023 18:27:33 [552] Stop thread...
+05/05/2023 18:27:34 [552] Stop thread...
+05/05/2023 18:27:34 [552] Stop thread...
+05/05/2023 18:27:35 [552] Stop thread...
+
+05/05/2023 18:28:12 [13428] Stop thread...
+05/05/2023 18:28:13 [13428] Stop thread...
+05/05/2023 18:28:16 [13428] Stop thread...
+
+
+
+
+
+
+
+
+
+
+
+
+05/05/2023 18:38:59 [16896] Stop thread...
+05/05/2023 18:39:01 [16896] Stop thread...
+05/05/2023 18:39:03 [16896] Stop thread...
+
+05/05/2023 18:40:05 [6904] Stop thread...
+05/05/2023 18:40:07 [6904] Stop thread...
+05/05/2023 18:40:07 [6904] Stop thread...
+05/05/2023 18:40:08 [6904] Stop thread...
+05/05/2023 18:40:09 [6904] Stop thread...
+
+
+
+
+05/05/2023 18:41:16 [7600] Stop thread...
+05/05/2023 18:41:17 [7600] Stop thread...
+05/05/2023 18:41:18 [7600] Stop thread...
+05/05/2023 18:41:19 [7600] Stop thread...
+
+
+
+
+
+
+05/05/2023 19:04:14 [16336] Stop thread...
+05/05/2023 19:04:15 [16336] Stop thread...
+05/05/2023 19:04:15 [16336] Stop thread...
+05/05/2023 19:04:16 [16336] Stop thread...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+05/05/2023 20:30:54 [14948] Stop thread...
+05/05/2023 20:30:55 [14948] [SetAgentState] error = -10 : 
+05/05/2023 20:30:57 [14948] [SetAgentState] error = -10 : 
+05/05/2023 20:30:58 [14948] [SetAgentState] error = -10 : 
+05/05/2023 20:30:58 [14948] [SetAgentState] error = -10 : 
+05/05/2023 20:30:59 [14948] [SetAgentState] error = -10 : 
+05/05/2023 20:31:04 [14948] [SetAgentState] error = -10 : 
+05/05/2023 20:31:04 [14948] Stop thread...
+
+
+
+
+
+
+05/05/2023 20:38:22 [18684] [SetAgentState] error = -10 : 
+05/05/2023 20:38:24 [18684] [SetAgentState] error = -10 : 
+05/05/2023 20:38:24 [18684] Stop thread...
+
+05/05/2023 20:47:14 [7128] [MakeCall] error = -10 : calling= called=40107
+05/05/2023 20:47:15 [7128] [MakeCall] error = -10 : calling= called=40107
+05/05/2023 20:47:15 [7128] [MakeCall] error = -10 : calling= called=40107
+05/05/2023 20:47:16 [7128] [MakeCall] error = -10 : calling= called=40107
+05/05/2023 20:47:16 [7128] [MakeCall] error = -10 : calling= called=40107
+05/05/2023 20:47:17 [7128] [MakeCall] error = -10 : calling= called=40107
+05/05/2023 20:47:17 [7128] [MakeCall] error = -10 : calling= called=40107
+05/05/2023 20:47:17 [7128] [MakeCall] error = -10 : calling= called=40107
+05/05/2023 20:47:17 [7128] [MakeCall] error = -10 : calling= called=40107
+05/05/2023 20:47:18 [7128] [MonitorDevice] error = -10 : 
+
+
+
+
+
+05/05/2023 20:47:52 [15804] [MakeCall] error = -10 : calling= called=
+05/05/2023 20:47:53 [15804] [MakeCall] error = -10 : calling= called=
+05/05/2023 20:47:54 [15804] [MakeCall] error = -10 : calling= called=
+05/05/2023 20:47:54 [15804] [MakeCall] error = -10 : calling= called=
+05/05/2023 20:48:00 [15804] Stop thread...
+
+05/05/2023 20:50:42 [22832] [MakeCall] error = -10 : calling=40999 called=40107
+05/05/2023 20:50:44 [22832] [MakeCall] error = -10 : calling=40999 called=40107
+05/05/2023 20:50:44 [22832] [MakeCall] error = -10 : calling=40999 called=40107
+05/05/2023 20:50:49 [22832] Stop thread...
+
+05/05/2023 20:51:01 [23860] [MakeCall] error = -10 : calling= called=40107
+05/05/2023 20:51:02 [23860] Stop thread...
+
+05/05/2023 20:53:48 [20224] [MakeCall] error = -10 : calling=40402 called=40107
+05/05/2023 20:53:52 [20224] [MakeCall] error = -10 : calling=40402 called=40107
+05/05/2023 20:53:52 [20224] [MakeCall] error = -10 : calling=40402 called=40107
+05/05/2023 20:53:52 [20224] [MakeCall] error = -10 : calling=40402 called=40107
+05/05/2023 20:53:56 [20224] Stop thread...
+
+
+
+
+
+
+07/05/2023 16:52:56 [24348] OpenStream(AVAYA#CM7#CSTA#AESIP84,ctiuser,M1d14v0x@)
+07/05/2023 16:52:56 [24348] Stop thread...
+07/05/2023 16:52:56 [24348] Start thread...
+07/05/2023 16:52:56 [25556] CTI Event: class=2 type=2
+07/05/2023 16:52:56 [25556] ERROR reading private event info: -1
+07/05/2023 16:52:56 [25556] ACS_OPEN_STREAM_CONF [id=2]
+07/05/2023 16:52:56 [22256] Event in queue: 1
+07/05/2023 16:52:56 [22256] OpenStreamConf
+07/05/2023 16:53:03 [24348] Stop thread...
+07/05/2023 16:53:03 [25556] ERROR ACSERR_BADHDL: handle=90640824
+
+
+
+
+
+07/05/2023 16:54:57 [14324] Stop thread...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+08/05/2023 18:49:10 [16232] Stop thread...
+08/05/2023 18:49:11 [16232] Stop thread...
+
+
+
+
+
+08/05/2023 19:40:47 [28432] OpenStream(AVAYA#CM7#CSTA#AESIP84,ctiuser,M1d14v0x@)
+08/05/2023 19:40:48 [28432] Stop thread...
+08/05/2023 19:40:48 [28432] Start thread...
+08/05/2023 19:40:48 [28432] [MonitorDevice] success : 40402
+08/05/2023 19:40:50 [17292] CTI Event: class=2 type=2
+08/05/2023 19:40:50 [17292] ERROR reading private event info: -1
+08/05/2023 19:40:50 [17292] ACS_OPEN_STREAM_CONF [id=2]
+08/05/2023 19:40:50 [27684] Event in queue: 1
+08/05/2023 19:40:50 [27684] OpenStreamConf
+
+
+
+
+08/05/2023 19:50:04 [20788] Stop thread...
+08/05/2023 19:50:10 [20788] [SetAgentState] error = -10 : 
+08/05/2023 19:50:13 [20788] [SetAgentState] error = -10 : 
+08/05/2023 19:50:14 [20788] [SetAgentState] error = -10 : 
+08/05/2023 19:50:18 [20788] [SetAgentState] error = -10 : 
+08/05/2023 19:50:18 [20788] Stop thread...
+
+
+
+08/05/2023 20:23:54 [6820] OpenStream(Agora?,ctiuser,M1d14v0x@)
+08/05/2023 20:23:55 [6820] Stop thread...
+08/05/2023 20:23:55 [6820] [MonitorDevice] error = -10 : 40402
+08/05/2023 20:23:59 [6820] [SetAgentState] error = -10 : 50402
+08/05/2023 20:24:06 [6820] [SetAgentState] error = -10 : 50402
+08/05/2023 20:24:06 [6820] Stop thread...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+09/05/2023 10:06:32 [14592] Stop thread...
+09/05/2023 10:06:39 [14592] Stop thread...
+
+09/05/2023 10:20:26 [29820] Stop thread...
+09/05/2023 10:20:29 [29820] Stop thread...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+09/05/2023 18:36:49 [22164] OpenStream(da,ctiuser,M1d14v0x@)
+09/05/2023 18:36:49 [22164] Stop thread...
+09/05/2023 18:36:58 [22164] OpenStream(da,ctiuser,M1d14v0x@)
+09/05/2023 18:36:58 [22164] Stop thread...
+09/05/2023 18:37:02 [22164] [SetAgentState] error = -10 : 50402
+09/05/2023 18:37:03 [22164] [SetAgentState] error = -10 : 50402
+09/05/2023 18:37:04 [22164] [SetAgentState] error = -10 : 50402
+09/05/2023 18:37:05 [22164] [MonitorDevice] error = -10 : 40402
+09/05/2023 18:37:07 [22164] [SetAgentState] error = -10 : 50402
+09/05/2023 18:37:07 [22164] Stop thread...
+
+
+
+
+
+
+
+
+
+
+
+
+
+09/05/2023 19:52:12 [22836] Stop thread...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11/05/2023 13:30:26 [1976] Stop thread...
+
+
+
+11/05/2023 13:47:01 [17028] OpenStream(P,ctiuser,M1d14v0x@)
+11/05/2023 13:47:01 [17028] Stop thread...
+11/05/2023 13:47:10 [17028] OpenStream(P,ctiuser,M1d14v0x@)
+11/05/2023 13:47:10 [17028] Stop thread...
+11/05/2023 13:47:16 [17028] [SetAgentState] error = -10 : 50402
+11/05/2023 13:47:18 [17028] [SetAgentState] error = -10 : 50402
+11/05/2023 13:47:18 [17028] Stop thread...
+11/05/2023 13:47:19 [17028] Stop thread...
+
+
+
+
+
+12/05/2023 14:28:55 [7580] OpenStream(AVAYA#CM7#CSTA#AESIP84,ctiuser,M1d14v0x@)
+12/05/2023 14:28:55 [7580] Stop thread...
+12/05/2023 14:28:55 [7580] Start thread...
+12/05/2023 14:28:55 [22780] CTI Event: class=2 type=2
+12/05/2023 14:28:55 [22780] ERROR reading private event info: -1
+12/05/2023 14:28:55 [22780] ACS_OPEN_STREAM_CONF [id=2]
+12/05/2023 14:28:55 [14452] Event in queue: 1
+12/05/2023 14:28:55 [14452] OpenStreamConf
+12/05/2023 14:28:59 [7580] Stop thread...
+12/05/2023 14:28:59 [22780] ERROR ACSERR_BADHDL: handle=97980856
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12/05/2023 16:39:45 [16492] OpenStream(AVAYA#CM7#CSTA#AESIP84,ctiuser,M1d14v0x@)
+12/05/2023 16:39:46 [16492] Stop thread...
+12/05/2023 16:39:46 [16492] Start thread...
+12/05/2023 16:39:46 [24440] CTI Event: class=2 type=2
+12/05/2023 16:39:46 [24440] ERROR reading private event info: -1
+12/05/2023 16:39:46 [24440] ACS_OPEN_STREAM_CONF [id=2]
+12/05/2023 16:39:46 [13292] Event in queue: 1
+12/05/2023 16:39:46 [13292] OpenStreamConf
+12/05/2023 16:39:49 [16492] Stop thread...
+12/05/2023 16:39:49 [24440] ERROR ACSERR_BADHDL: handle=99422648
+
+
+12/05/2023 16:41:28 [22552] OpenStream(AVAYA#CM7#CSTA#AESIP84,ctiuser,M1d14v0x@)
+12/05/2023 16:41:29 [22552] Stop thread...
+12/05/2023 16:41:29 [22552] Start thread...
+12/05/2023 16:41:29 [19220] CTI Event: class=2 type=2
+12/05/2023 16:41:29 [19220] ERROR reading private event info: -1
+12/05/2023 16:41:29 [19220] ACS_OPEN_STREAM_CONF [id=2]
+12/05/2023 16:41:29 [12536] Event in queue: 1
+12/05/2023 16:41:29 [12536] OpenStreamConf
+
+
+
+
+
+
+
+
+
+
+15/05/2023 11:51:25 [6996] Stop thread...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16/05/2023 13:54:43 [9992] OpenStream(Sim,ctiuser,M1d14v0x@)
+16/05/2023 13:54:43 [9992] Stop thread...
+16/05/2023 13:54:53 [9992] OpenStream(Sim,ctiuser,M1d14v0x@)
+16/05/2023 13:54:53 [9992] Stop thread...
+16/05/2023 13:54:59 [9992] Stop thread...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+17/05/2023 11:14:45 [7884] OpenStream(Vou a,ctiuser,M1d14v0x@)
+17/05/2023 11:14:46 [7884] Stop thread...
+17/05/2023 11:14:53 [7884] OpenStream(Vou a,ctiuser,M1d14v0x@)
+17/05/2023 11:14:53 [7884] Stop thread...
+17/05/2023 11:14:57 [7884] Stop thread...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+17/05/2023 12:00:42 [19908] Stop thread...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+17/05/2023 13:38:52 [5652] Stop thread...
+
+
+
+
+
+
+17/05/2023 14:08:21 [17356] OpenStream(AVAYA#CM7#CSTA#AESIP84,ctiuser,M1d14v0x@)
+17/05/2023 14:08:21 [17356] Stop thread...
+17/05/2023 14:08:21 [17356] Start thread...
+17/05/2023 14:08:21 [8020] CTI Event: class=2 type=2
+17/05/2023 14:08:21 [8020] ERROR reading private event info: -1
+17/05/2023 14:08:21 [8020] ACS_OPEN_STREAM_CONF [id=2]
+17/05/2023 14:08:21 [10400] Event in queue: 1
+17/05/2023 14:08:21 [10400] OpenStreamConf
+
+
+
+
+17/05/2023 14:28:28 [2124] Stop thread...
+
+
+
+
+
+
+
+
+
+
+
+17/05/2023 15:50:07 [7224] Stop thread...
+
+
+
+
+
+
+
+
+
+
+17/05/2023 16:09:13 [9108] Stop thread...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+25/05/2023 08:21:33 [9580] Stop thread...
+
+
+
+
+
+
+
+
+
+
+
+
+25/05/2023 09:00:11 [4772] Stop thread...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31/05/2023 18:29:53 [26824] Stop thread...
+
+
+
+
+
+
+
+
+
+
+
+
+
+01/06/2023 13:18:11 [14112] OpenStream(AVAYA#CM7#CSTA#AESIP84,ctiuser,M1d14v0x@)
+01/06/2023 13:18:11 [14112] Stop thread...
+01/06/2023 13:18:11 [14112] Start thread...
+01/06/2023 13:18:11 [27816] CTI Event: class=2 type=2
+01/06/2023 13:18:11 [27816] ERROR reading private event info: -1
+01/06/2023 13:18:11 [27816] ACS_OPEN_STREAM_CONF [id=2]
+01/06/2023 13:18:11 [27096] Event in queue: 1
+01/06/2023 13:18:11 [27096] OpenStreamConf
+01/06/2023 13:18:17 [14112] Stop thread...
+01/06/2023 13:18:17 [27816] ERROR ACSERR_BADHDL: handle=94048696
+
+
+
+
+
+
+
+
+
+
+
+
+
+01/06/2023 15:08:30 [20944] OpenStream(AVAYA#CM7#CSTA#AESIP84,ctiuser,M1d14v0x@)
+01/06/2023 15:08:31 [20944] Stop thread...
+01/06/2023 15:08:31 [20944] Start thread...
+01/06/2023 15:08:31 [20440] CTI Event: class=2 type=2
+01/06/2023 15:08:31 [20440] ERROR reading private event info: -1
+01/06/2023 15:08:31 [20440] ACS_OPEN_STREAM_CONF [id=2]
+01/06/2023 15:08:31 [7036] Event in queue: 1
+01/06/2023 15:08:31 [7036] OpenStreamConf
+01/06/2023 15:08:36 [20440] ERROR ACSERR_BADHDL: handle=93589944
+01/06/2023 15:08:36 [20944] Stop thread...
+
+01/06/2023 15:47:39 [3932] OpenStream(AVAYA#CM7#CSTA#AESIP84,ctiuser,M1d14v0x@)
+01/06/2023 15:47:40 [3932] Stop thread...
+01/06/2023 15:47:40 [3932] Start thread...
+01/06/2023 15:47:40 [24376] CTI Event: class=2 type=2
+01/06/2023 15:47:40 [24376] ERROR reading private event info: -1
+01/06/2023 15:47:40 [24376] ACS_OPEN_STREAM_CONF [id=2]
+01/06/2023 15:47:40 [22216] Event in queue: 1
+01/06/2023 15:47:40 [22216] OpenStreamConf
+01/06/2023 15:47:46 [3932] Stop thread...
+01/06/2023 15:47:46 [24376] ERROR ACSERR_BADHDL: handle=94310840
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+01/06/2023 21:11:09 [19248] Stop thread...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+02/06/2023 22:49:53 [25972] Stop thread...
+
+02/06/2023 22:51:32 [31668] Stop thread...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+08/06/2023 12:13:09 [12808] Stop thread...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+08/06/2023 15:35:56 [10292] OpenStream(AVAYA#CM7#CSTA#AESIP84,ctiuser,M1d14v0x@)
+08/06/2023 15:35:57 [10292] Stop thread...
+08/06/2023 15:35:57 [10292] Start thread...
+08/06/2023 15:35:57 [6760] CTI Event: class=2 type=2
+08/06/2023 15:35:57 [6760] ERROR reading private event info: -1
+08/06/2023 15:35:57 [6760] ACS_OPEN_STREAM_CONF [id=2]
+08/06/2023 15:35:57 [18464] Event in queue: 1
+08/06/2023 15:35:57 [18464] OpenStreamConf
+08/06/2023 15:36:09 [10292] Stop thread...
+08/06/2023 15:36:09 [6760] ERROR ACSERR_BADHDL: handle=90051000
+
+
+
+
+
+
+
+
+
+
+
+08/06/2023 15:59:44 [25572] OpenStream(AVAYA#CM7#CSTA#AESIP84,ctiuser,M1d14v0x@)
+08/06/2023 15:59:45 [25572] Stop thread...
+08/06/2023 15:59:45 [25572] Start thread...
+08/06/2023 15:59:45 [968] CTI Event: class=2 type=2
+08/06/2023 15:59:45 [968] ERROR reading private event info: -1
+08/06/2023 15:59:45 [968] ACS_OPEN_STREAM_CONF [id=2]
+08/06/2023 15:59:45 [24996] Event in queue: 1
+08/06/2023 15:59:45 [24996] OpenStreamConf
+08/06/2023 15:59:58 [968] ERROR ACSERR_BADHDL: handle=91689400
+08/06/2023 15:59:58 [25572] Stop thread...
+
+
+
+
+
+
+
+
+
+
+
+
+08/06/2023 16:19:24 [31468] OpenStream(AVAYA#CM7#CSTA#AESIP84,ctiuser,M1d14v0x@)
+08/06/2023 16:19:25 [31468] Stop thread...
+08/06/2023 16:19:25 [31468] Start thread...
+08/06/2023 16:19:26 [3436] CTI Event: class=2 type=2
+08/06/2023 16:19:26 [3436] ERROR reading private event info: -1
+08/06/2023 16:19:26 [3436] ACS_OPEN_STREAM_CONF [id=2]
+08/06/2023 16:19:26 [11236] Event in queue: 1
+08/06/2023 16:19:26 [11236] OpenStreamConf
+
+
+
+
+22/06/2023 15:39:08 [15076] OpenStream(AVAYA#CM7#CSTA#AESIP84,ctiuser,M1d14v0x@)
+22/06/2023 15:39:09 [15076] Stop thread...
+22/06/2023 15:39:09 [15076] Start thread...
+22/06/2023 15:39:09 [22288] CTI Event: class=2 type=2
+22/06/2023 15:39:09 [22288] ERROR reading private event info: -1
+22/06/2023 15:39:09 [22288] ACS_OPEN_STREAM_CONF [id=2]
+22/06/2023 15:39:09 [2752] Event in queue: 1
+22/06/2023 15:39:09 [2752] OpenStreamConf
+22/06/2023 15:39:12 [15076] Stop thread...
+22/06/2023 15:39:12 [22288] ERROR ACSERR_BADHDL: handle=94376376
+
+
+23/06/2023 10:47:29 [15212] Stop thread...
+
+
+
+
+26/06/2023 16:22:28 [5624] Stop thread...
+
+
+
+
+
+
+
+
+
+
+28/06/2023 16:58:31 [12200] Stop thread...
+
+
+
+
+29/06/2023 09:15:03 [23512] OpenStream(AVAYA#CM7#CSTA#AESIP84,ctiuser,M1d14v0x@)
+29/06/2023 09:15:03 [23512] Stop thread...
+29/06/2023 09:15:03 [23512] Start thread...
+29/06/2023 09:15:03 [2312] CTI Event: class=2 type=2
+29/06/2023 09:15:03 [2312] ERROR reading private event info: -1
+29/06/2023 09:15:03 [2312] ACS_OPEN_STREAM_CONF [id=2]
+29/06/2023 09:15:03 [12612] Event in queue: 1
+29/06/2023 09:15:03 [12612] OpenStreamConf
+29/06/2023 09:15:08 [23512] Stop thread...
+29/06/2023 09:15:08 [2312] ERROR ACSERR_BADHDL: handle=92475832
+
+
+
+
+
+
+
+
+
+29/06/2023 12:50:02 [24692] OpenStream(AVAYA#CM7#CSTA#AESIP84,ctiuser,M1d14v0x@)
+29/06/2023 12:50:02 [24692] Stop thread...
+29/06/2023 12:50:02 [24692] Start thread...
+29/06/2023 12:50:02 [14912] CTI Event: class=2 type=2
+29/06/2023 12:50:02 [14912] ERROR reading private event info: -1
+29/06/2023 12:50:02 [14912] ACS_OPEN_STREAM_CONF [id=2]
+29/06/2023 12:50:02 [19724] Event in queue: 1
+29/06/2023 12:50:02 [19724] OpenStreamConf
+29/06/2023 12:50:06 [24692] Stop thread...
+29/06/2023 12:50:06 [14912] ERROR ACSERR_BADHDL: handle=94311312
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+30/06/2023 15:47:23 [25800] OpenStream(AVAYA#CM7#CSTA#AESIP84,ctiuser,M1d14v0x@)
+30/06/2023 15:47:44 [25800] Stop thread...
+30/06/2023 15:47:53 [25800] Stop thread...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10/08/2023 14:32:40 [18704] Stop thread...
+
+
+
+11/08/2023 13:30:10 [15648] Stop thread...
+
+11/08/2023 13:30:36 [4204] Stop thread...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16/08/2023 21:01:08 [21136] Stop thread...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29/08/2023 22:36:59 [8492] Stop thread...
+
+
+
+
+
+
+
+
+
+
+
+
+
+

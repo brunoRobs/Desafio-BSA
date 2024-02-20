@@ -1,0 +1,28 @@
+C:\Midiavox\Projetos\Estágio2\Desafio BSA\Desafio BSA Test\bin\Debug\NUnit3.TestAdapter.dll
+C:\Midiavox\Projetos\Estágio2\Desafio BSA\Desafio BSA Test\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Midiavox\Projetos\Estágio2\Desafio BSA\Desafio BSA Test\bin\Debug\nunit.engine.dll
+C:\Midiavox\Projetos\Estágio2\Desafio BSA\Desafio BSA Test\bin\Debug\nunit.engine.api.dll
+C:\Midiavox\Projetos\Estágio2\Desafio BSA\Desafio BSA Test\bin\Debug\nunit.engine.core.dll
+C:\Midiavox\Projetos\Estágio2\Desafio BSA\Desafio BSA Test\bin\Debug\testcentric.engine.metadata.dll
+C:\Midiavox\Projetos\Estágio2\Desafio BSA\Desafio BSA Test\bin\Debug\Desafio BSA Test.dll
+C:\Midiavox\Projetos\Estágio2\Desafio BSA\Desafio BSA Test\bin\Debug\Desafio BSA Test.pdb
+C:\Midiavox\Projetos\Estágio2\Desafio BSA\Desafio BSA Test\bin\Debug\Desafio BSA.exe
+C:\Midiavox\Projetos\Estágio2\Desafio BSA\Desafio BSA Test\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Midiavox\Projetos\Estágio2\Desafio BSA\Desafio BSA Test\bin\Debug\nunit.framework.dll
+C:\Midiavox\Projetos\Estágio2\Desafio BSA\Desafio BSA Test\bin\Debug\stdole.dll
+C:\Midiavox\Projetos\Estágio2\Desafio BSA\Desafio BSA Test\bin\Debug\Desafio BSA.pdb
+C:\Midiavox\Projetos\Estágio2\Desafio BSA\Desafio BSA Test\bin\Debug\Desafio BSA.exe.config
+C:\Midiavox\Projetos\Estágio2\Desafio BSA\Desafio BSA Test\bin\Debug\nunit.framework.xml
+C:\Midiavox\Projetos\Estágio2\Desafio BSA\Desafio BSA Test\obj\Debug\Desafio BSA Test.csprojAssemblyReference.cache
+C:\Midiavox\Projetos\Estágio2\Desafio BSA\Desafio BSA Test\obj\Debug\Desafio BSA Test.csproj.CoreCompileInputs.cache
+C:\Midiavox\Projetos\Estágio2\Desafio BSA\Desafio BSA Test\obj\Debug\Desafio BSA Test.csproj.CopyComplete
+C:\Midiavox\Projetos\Estágio2\Desafio BSA\Desafio BSA Test\obj\Debug\Desafio BSA Test.dll
+C:\Midiavox\Projetos\Estágio2\Desafio BSA\Desafio BSA Test\obj\Debug\Desafio BSA Test.pdb
+C:\Midiavox\Projetos\Estágio2\Desafio BSA\Desafio BSA Test\bin\Debug\Castle.Core.dll
+C:\Midiavox\Projetos\Estágio2\Desafio BSA\Desafio BSA Test\bin\Debug\Moq.dll
+C:\Midiavox\Projetos\Estágio2\Desafio BSA\Desafio BSA Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Midiavox\Projetos\Estágio2\Desafio BSA\Desafio BSA Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Midiavox\Projetos\Estágio2\Desafio BSA\Desafio BSA Test\bin\Debug\Castle.Core.xml
+C:\Midiavox\Projetos\Estágio2\Desafio BSA\Desafio BSA Test\bin\Debug\Moq.xml
+C:\Midiavox\Projetos\Estágio2\Desafio BSA\Desafio BSA Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Midiavox\Projetos\Estágio2\Desafio BSA\Desafio BSA Test\bin\Debug\System.Threading.Tasks.Extensions.xml
